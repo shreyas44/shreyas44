@@ -8,8 +8,8 @@ I'm Shreyas, a Full Stack Developer who's also into Data Science. I'm from Banga
 
 ## 🌱 I’m currently learning ...
 
-- Data Science/ML/AI Libraries - Pandas, Scikit-learn, Matplotlib
-- Conterization - Docker and Kubernetes
+- Data Science/ML/AI Libraries - Pandas, Scikit-learn, Matplotlib ...
+- Conterization and Container Orchestration - Docker and Kubernetes
 - Prisma and Nexus
 
 ## 👯 I’m looking to collaborate on ...
