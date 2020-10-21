@@ -14,7 +14,7 @@ I'm Shreyas, a Full Stack Developer who's also into Data Science. I'm from Banga
 
 ### 🤔 I’m looking for help with [Bedav](https://github.com/shreyas44/bedav)
 
-#### 👯 I’m looking to collaborate on React, Javascript, Python or Django projects
+### 👯 I’m looking to collaborate on React, Javascript, Python or Django projects
 
 <!---
 - 💬 Ask me about ...
