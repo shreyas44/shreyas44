@@ -12,13 +12,9 @@ I'm Shreyas, a Full Stack Developer who's also into Data Science. I'm from Banga
 - Conterization and Container Orchestration - Docker and Kubernetes
 - Prisma and Nexus
 
-## 👯 I’m looking to collaborate on ...
+### 🤔 I’m looking for help with [Bedav](https://github.com/shreyas44/bedav)
 
-- React, Javascript, Python or Django projects
-
-## 🤔 I’m looking for help with ...
-
-- [Bedav](https://github.com/shreyas44/bedav)
+#### 👯 I’m looking to collaborate on React, Javascript, Python or Django projects
 
 <!---
 - 💬 Ask me about ...
