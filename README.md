@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Shreyas, a Full Stack Developer who's also into Data Science. I'm from Bangalore, India and you can find me on twitter [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2].
+I'm Shreyas, a Full Stack Developer who's also into Data Science. I'm from Bangalore, India and you can find me on twitter [![Twitter][1.2]][1] or on   [![LinkedIn][2.2]][2].
 
 ## 🔭 I’m currently working on ...
 
@@ -35,10 +35,9 @@ I'm Shreyas, a Full Stack Developer who's also into Data Science. I'm from Banga
 <a href="https://github.com/shreyas44/shreyas44">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyas44&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ce3691&bg_color=1d1f21" alt="Shreyas' GitHub Stats" />
 </a>
-
-<!-- Actual text -->
-
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+<a href="https://github.com/shreyas44/bedav">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyas44&repo=bedav&title_color=ffffff&text_color=c9cacc&icon_color=ce3691&bg_color=1d1f21" />
+</a>
 
 <!-- Icons -->
 
