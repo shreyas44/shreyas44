@@ -26,7 +26,7 @@ I'm Shreyas, a Full Stack Developer who's also into Data Science. I'm from Banga
 ## 📈 GitHub stats ...
 
 <a href="https://github.com/shreyas44/shreyas44">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas44&hide=php,dockerfile&title_color=ffffff&text_color=c9cacc&icon_color=ce3691&bg_color=1d1f21" alt="Shreyas' top languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas44&hide=php,dockerfile,jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=ce3691&bg_color=1d1f21" alt="Shreyas' top languages"/>
 </a>
 <a href="https://github.com/shreyas44/shreyas44">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyas44&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ce3691&bg_color=1d1f21" alt="Shreyas' GitHub Stats" />
